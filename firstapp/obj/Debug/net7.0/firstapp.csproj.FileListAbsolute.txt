@@ -1,0 +1,15 @@
+C:\Robb Assign\firstapp\bin\Debug\net7.0\firstapp.exe
+C:\Robb Assign\firstapp\bin\Debug\net7.0\firstapp.deps.json
+C:\Robb Assign\firstapp\bin\Debug\net7.0\firstapp.runtimeconfig.json
+C:\Robb Assign\firstapp\bin\Debug\net7.0\firstapp.dll
+C:\Robb Assign\firstapp\bin\Debug\net7.0\firstapp.pdb
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.csproj.AssemblyReference.cache
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.AssemblyInfoInputs.cache
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.AssemblyInfo.cs
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.csproj.CoreCompileInputs.cache
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.dll
+C:\Robb Assign\firstapp\obj\Debug\net7.0\refint\firstapp.dll
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.pdb
+C:\Robb Assign\firstapp\obj\Debug\net7.0\firstapp.genruntimeconfig.cache
+C:\Robb Assign\firstapp\obj\Debug\net7.0\ref\firstapp.dll
